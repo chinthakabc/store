@@ -1,0 +1,6 @@
+this is the todo list for this project
+
+1. creat repo in github
+2. upload it
+3. clone it
+4. make changes and upload it
